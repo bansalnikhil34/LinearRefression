@@ -49,7 +49,6 @@ linearReg1.fit(x_train,y_train)
 
 y_predict_linear = linearReg1.predict(x_test)
 
-# ggjhgj
-
+# sudhan comment
 # plot
 sns.distplot(y_test-y_predict_linear)
