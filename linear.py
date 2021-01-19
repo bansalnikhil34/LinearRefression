@@ -51,6 +51,7 @@ y_predict_linear = linearReg1.predict(x_test)
 
 # nikhil comment
 # sudhan comment
+# nikkhil 2nd comment
 # plot
 
 sns.distplot(y_test-y_predict_linear)
